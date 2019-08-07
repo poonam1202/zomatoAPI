@@ -34,7 +34,7 @@ if (!empty($_GET['location'])) {
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <img src="Zomato_logo.png" class="img-rounded" hight="20" width="50" >
+      <img src="https://www.bing.com/images/search?view=detailV2&ccid=SgfWZiHY&id=9EDBD64313BA2A59CFC0E7141AA87193285C8210&thid=OIP.SgfWZiHYLdeF8oNM_lZmrAAAAA&mediaurl=http%3a%2f%2fwww.medianama.com%2fwp-content%2fuploads%2fZomato-logo.png&exph=150&expw=150&q=zomato+logo+images&simid=608028361466906498&selectedIndex=10" class="img-rounded" hight="20" width="50" >
     </div>
   </div>
 </nav>
